@@ -2,6 +2,9 @@
 PyNE: Python for Nuclear Engineering
 ====================================
 
+:Author: Paul Romano <romano7@gmail.com>
+:Affiliation: MIT
+
 :Author: Anthony Scopatz <scopatz@gmail.com>
 :Affiliation: The University of Chicago
 
@@ -30,8 +33,8 @@ same codes are then heavily export controlled and redistribution in any form is
 against their licenses and is likely illegal.
 
 Redistribution concerns are not limited to source code.  Basic nuclear data, 
-while fundamentally un-copywritable under Western jurisprudence, is also 
-often considered sensitive and subject to export control laws.  Moreover, 
+while fundamentally un-copywritable under Western jurisprudence, also 
+be considered sensitive and subject to export control laws.  Moreover, 
 such data is typically required for all levels of science and engineering 
 tasks.  To alleviate the data burden of the individual user, PyNE has developed
 a three-tier strategy.  If allowed (with written permission) data will be 
