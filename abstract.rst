@@ -2,11 +2,12 @@
 PyNE: Python for Nuclear Engineering
 ====================================
 
+:Author: Anthony Scopatz <scopatz@gmail.com>
+:Affiliation: The University of Chicago
+
 :Author: Paul Romano <romano7@gmail.com>
 :Affiliation: MIT
 
-:Author: Anthony Scopatz <scopatz@gmail.com>
-:Affiliation: The University of Chicago
 
 PyNE, or `Python for Nuclear Engineering`_, is a nascent free and open source 
 C++/Cython/Python package for performing common nuclear engineering tasks.  
