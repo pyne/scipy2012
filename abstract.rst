@@ -41,8 +41,8 @@ tasks.  To alleviate the data burden of the individual user, PyNE has developed
 a three-tier strategy.  If allowed (with written permission) data will be 
 redistributed in binary form (HDF5).  If open data may not be redistributed, 
 it is automatically gathered from various internet sources.  Finally, 
-if the user has access to export controlled data, this will also be incorporated
-automatically into the database for their personal use.
+if the user has prior access to export controlled data, their own copies of these data 
+will also be incorporated automatically into the database for their personal use.
 
 In spite of the above administrative concerns, PyNE's place in the nuclear ecosystem
 requires it have a general architecture.  Large portions of the code base are 
