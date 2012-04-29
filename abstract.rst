@@ -9,7 +9,7 @@ PyNE: Python for Nuclear Engineering
 :Affiliation: MIT
 
 :Author: Paul Wilson <uwgonuke@gmail.com>
-:AFfiliation: U. Wisconsin-Madison
+:AFfiliation: University of Wisconsin-Madison
 
 
 PyNE, or `Python for Nuclear Engineering`_, is a nascent free and open source 
