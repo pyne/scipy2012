@@ -31,10 +31,10 @@ in international law at a time when Fortran 2 was the language of choice.
 Thus the emerging value of PyNE is that it allows new users to shortcut the tedious and 
 error prone process of writing their own tools to parse these obtuse data and output file 
 formats.  The current unfortunate state of affairs is due in part to huge institutional 
-inertia on the part of the maintatiners of such formats.  This manifests as a reluctance to 
+inertia on the part of the maintainers of such formats.  This manifests as a reluctance to 
 develop or refactor new and existing codes in a modern open source manner.  PyNE seeks to 
 gain human efficiency via a shared set of solutions rather than having every developer 
-around the country and world replicate the same parsing steps.
+around the world replicate the same parsing routines.
 
 Another major challenge for the community of PyNE developers is maintaining
 the BSD license while explicitly avoiding any code which may be subject to 
