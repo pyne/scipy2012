@@ -28,7 +28,15 @@ specifications are not solely a nuclear problem, the scale of the number of form
 is much greater.  Partly to blame is that some of these formats were enshrined 
 in international law at a time when Fortran 2 was the language of choice.
 
-However, the main challenge for the community of PyNE developers is maintaining
+Thus the emerging value of PyNE is that it allows new users to shortcut the tedious and 
+error prone process of writing their own tools to parse these obtuse data and output file 
+formats.  The current unfortunate state of affairs is due in part to huge institutional 
+inertia on the part of the maintatiners of such formats.  This manifests as a reluctance to 
+develop or refactor new and existing codes in a modern open source manner.  PyNE seeks to 
+gain human efficiency via a shared set of solutions rather than having every developer 
+around the country and world replicate the same parsing steps.
+
+Another major challenge for the community of PyNE developers is maintaining
 the BSD license while explicitly avoiding any code which may be subject to 
 export control.  Many nuclear engineering codes are open source in the sense
 that the source code is distributed to developers who are then free to modify it.
@@ -38,14 +46,9 @@ against their licenses and is likely illegal.
 
 Redistribution concerns are not limited to source code.  Basic nuclear data, 
 while fundamentally un-copywritable under Western jurisprudence, also 
-be considered sensitive and subject to export control laws.  Moreover, 
-such data is typically required for all levels of science and engineering 
-tasks.  To alleviate the data burden of the individual user, PyNE has developed
-a three-tier strategy.  If allowed (with written permission) data will be 
-redistributed in binary form (HDF5).  If open data may not be redistributed, 
-it is automatically gathered from various internet sources.  Finally, 
-if the user has prior access to export controlled data, their own copies of these data 
-will also be incorporated automatically into the database for their personal use.
+be considered sensitive and subject to export control laws.  PyNE has developed
+a three-tiered strategy to alleviate the data burden of the individual user based 
+on the level of openness of the data. 
 
 In spite of the above administrative concerns, PyNE's place in the nuclear ecosystem
 requires it have a general architecture.  Large portions of the code base are 
