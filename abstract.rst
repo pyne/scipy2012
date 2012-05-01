@@ -5,7 +5,7 @@ PyNE: Python for Nuclear Engineering
 :Author: Anthony Scopatz <scopatz@gmail.com>
 :Affiliation: The University of Chicago
 
-:Author: Paul Romano <romano7@gmail.com>
+:Author: Paul Romano <paul.k.romano@gmail.com>
 :Affiliation: MIT
 
 :Author: Paul Wilson <uwgonuke@gmail.com>
