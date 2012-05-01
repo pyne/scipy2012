@@ -6,7 +6,7 @@ PyNE: Python for Nuclear Engineering
 :Affiliation: The University of Chicago
 
 :Author: Paul Romano <paul.k.romano@gmail.com>
-:Affiliation: MIT
+:Affiliation: Massachusetts Institute of Technology
 
 :Author: Paul Wilson <uwgonuke@gmail.com>
 :AFfiliation: University of Wisconsin-Madison
